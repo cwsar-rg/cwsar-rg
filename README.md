@@ -1,81 +1,62 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Presentación - Cesar Julian</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      background-color: #fff;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.1);
-    }
-    h1, h2 {
-      color: #0077cc;
-    }
-    .info {
-      font-size: 18px;
-      margin-bottom: 20px;
-    }
-    .info span {
-      display: block;
-      margin-bottom: 5px;
-    }
-    .section {
-      margin-top: 30px;
-    }
-    .redes a {
-      font-size: 24px;
-      margin-right: 15px;
-      text-decoration: none;
-    }
-    .redes a:hover {
-      opacity: 0.8;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>👤 Cesar Julian Rodriguez Gonzalez</h1>
-    <div class="info">
-      <span>📅 Edad: 18 años</span>
-      <span>🎓 Especialidad: Ingeniería en Inteligencia Artificial</span>
-      <span>🌎 País: México</span>
-      <span>🗣️ Idiomas: Español 🇲🇽 e Inglés 🇺🇸</span>
-    </div>
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
 
-    <div class="section">
-      <h2>🧠 Sobre mí</h2>
-      <p>
-        Soy un estudiante entusiasta de la ESCOM-IPN, siempre en busca de aprender algo nuevo y aportar con ideas creativas e innovadoras. Me apasiona la tecnología, me encanta colaborar en equipo y busco crecer profesionalmente en ambientes que me reten a diario. Tengo buenas habilidades de comunicación y no le tengo miedo a los problemas, ¡los enfrento como un verdadero programador! 😎
-      </p>
-    </div>
+<br>
 
-    <div class="section">
-      <h2>🎉 Dato curioso</h2>
-      <p>
-        Una vez le puse punto y coma a un ensayo... por costumbre de programar 🫣😂
-      </p>
-    </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Edad-18-blue" />
+  <img src="https://img.shields.io/badge/Especialidad-IA%20(ESCOM)-purple" />
+  <img src="https://img.shields.io/badge/Vive-M%C3%A9xico-success" />
+  <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%26%20Ingl%C3%A9s-orange" />
+</p>
 
-    <div class="section">
-      <h2>📲 Redes de contacto</h2>
-      <div class="redes">
-        <a href="mailto:cesarrg9898@gmail.com">📧</a>
-        <a href="https://www.instagram.com/cwsar.rg?igsh=MWh0d2lqaG56OWlkYQ%3D%3D&utm_source=qr" target="_blank">📸</a>
-        <a href="https://www.linkedin.com/in/cesar-julian-rodriguez-gonzalez-57346335a/" target="_blank">💼</a>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+---
+
+<h1 align="center">¡Hola! 👋 Soy Cesar Julian Rodriguez Gonzalez</h1>
+<h3 align="center">Estudiante de Ingeniería en Inteligencia Artificial 👨‍💻 | Apasionado por la tecnología 🚀</h3>
+
+---
+
+<p align="center">
+  <a href="mailto:cesarrg9898@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/cwsar.rg?igsh=MWh0d2lqaG56OWlkYQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="30" width="30"/></a>
+  <a href="https://www.linkedin.com/in/cesar-julian-rodriguez-gonzalez-57346335a/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30"/></a>
+</p>
+
+---
+
+### 👨‍🏫 Sobre mí
+
+Soy un estudiante de primer año en ESCOM del IPN, apasionado por la inteligencia artificial, la programación y el trabajo en equipo. Siempre estoy buscando mejorar mis habilidades y aprender cosas nuevas. Me gustan los retos y disfruto colaborar en proyectos que me ayuden a crecer tanto profesional como personalmente.
+
+---
+
+### 🤪 Dato curioso
+
+Una vez le puse un **punto y coma `;` a un ensayo**... ¡por pura costumbre de programador! 😂
+
+---
+
+### 🛠️ Tecnologías con las que estoy aprendiendo o trabajando
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PSeInt-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cesarrg9898&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrg9898&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
+
+
