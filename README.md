@@ -50,13 +50,5 @@ Una vez le puse un **punto y coma `;` a un ensayo**... ¡por pura costumbre de p
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesarrg9898&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrg9898&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
 
 
